@@ -68,8 +68,8 @@ links=[
         ['https://angel.co/company/promptcloud/jobs','Web scraping service provider, catering to the big data requirements of enterprises'],
         ['https://angel.co/company/adaptilab/jobs','B2B SaaS to help companies grow machine learning teams from hiring to productivity'],
         ['https://angel.co/company/socialcore-1/jobs','A.I. powered video analytics platform'],
-        ['https://angel.co/company/biotrillion/jobs',"Data from Life. Data for Life.”],
-        ['https://angel.co/company/awiros/jobs','Video Intelligence']
+        ['https://angel.co/company/biotrillion/jobs','Data from Life. Data for Life.'],
+        ['https://angel.co/company/awiros/jobs','Video Intelligence'],
         ['https://angel.co/company/xten-av/jobs','Worlds First AV Design Platform head quartered in Silicon valley california'],
         ['https://angel.co/company/gridle/jobs','A family of Engineers, Designers and Product folks building Superior Digital Experiences!'],
         ['https://angel.co/company/accrualify/jobs','spend management system'],
